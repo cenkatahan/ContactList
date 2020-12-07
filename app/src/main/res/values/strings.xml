@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="example_string">BLANK</string>
+
+    <string name="home_string">HOME PHONE:</string>
+    <string name="cell_string">CELL PHONE:</string>
+    <string name="work_string">WORK PHONE: </string>
+    <string name="email_string">EMAIL: </string>
+</resources>
